@@ -7,6 +7,7 @@
 1. Run `$ make testsx to make sure that everything is properly configurated
 1. Copy some `.mp3` audio files into `mp3/` directory
 1. Run `$ make fingerprint-songs` to analyze audio files & fill your db with hashes
+1. configure parameters of test in configtest/config.json
 1. run `$ python script.py` to start the test 
 
 ## How to
