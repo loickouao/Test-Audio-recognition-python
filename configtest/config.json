@@ -1,0 +1,11 @@
+{
+    "Audiofile": ["./mp3/Documentaire/Jeremy Clarkson_ Top Gear was my baby - BBC News.mp3", "./mp3/Sport/Joli but au hockey sur glace.mp3"],
+    "playback_time": [3, 5, 10, 15],
+    "TimeListening": [3, 5, 10, 15],
+    "Distractions": ["None", "./mp3/Noise/White_Noise.mp3", "./mp3/conversation/Conversation1.mp3", "./mp3/Music/Lady Gaga Bradley Cooper Shallow.mp3" ],
+    "NoiseLevel": [-10, -5, 0, 5, 20],
+    "AudioLevel": [-10, -5, 0, 5, 20],
+    "OuputLevel": [0, 25, 50, 75, 100],
+    "starttime" : [1, 60, 120],
+    "Repetitions": [10]
+}
